@@ -1,6 +1,6 @@
 name: map_to_directory_structure
 description: Creates directory structure based on a map.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/flutter-cavalry/map_to_directory_structure
 
 environment:
@@ -16,4 +16,4 @@ dev_dependencies:
   tmp_path: ^1.1.0
 dependencies:
   convert: ^3.1.1
-  path: ^1.8.3
+  path: ^1.8.2
